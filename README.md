@@ -42,6 +42,3 @@ sql-data-cleaning/
 
 A clean and structured dataset ready for exploratory data analysis (EDA) and business reporting.
 
-## 📌 Note
-
-This project is part of my data analyst portfolio and demonstrates foundational SQL data engineering skills.
